@@ -1,1 +1,2 @@
 activity-day:20778 claimed ripienaar/free-for-dev 0f824dc3bd7b
+activity-day:20778 done ripienaar/free-for-dev 300c838ff551
